@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-   <a href="https://www.yourdevujjawal.com"><img alt="Portfolio Link" src="https://raw.githubusercontent.com/yourdevujjawal/yourdevujjawal/master/svg/social/portfolio.svg" height="50" width="50"></a>
+   <a href="https://www.yourdevujjawal.com">Portfolio 🧑‍💻</a>
    <br>
    <a href="https://visitor-badge.glitch.me/badge?page_id=yourdevujjawal.yourdevujjawal"> <img alt="Ujjawal Chatterjee github" src="https://visitor-badge.glitch.me/badge?page_id=yourdevujjawal.yourdevujjawal"> </a>
  </p>
