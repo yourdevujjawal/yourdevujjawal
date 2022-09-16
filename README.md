@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-   <a href="https://www.https://www.linkedin.com/in/yourdevujjawal"><img alt="LinkedIn Follow" src="https://raw.githubusercontent.com/yourdevujjawal/yourdevujjawal/master/linkedin.png?raw=true"></a>
+   <a href="https://www.yourdevujjawal.com"><img alt="Portfolio Link" src="https://raw.githubusercontent.com/yourdevujjawal/yourdevujjawal/master/svg/social/portfolio.svg" height="50" width="50"></a>
    <br>
    <a href="https://visitor-badge.glitch.me/badge?page_id=yourdevujjawal.yourdevujjawal"> <img alt="Ujjawal Chatterjee github" src="https://visitor-badge.glitch.me/badge?page_id=yourdevujjawal.yourdevujjawal"> </a>
  </p>
@@ -23,7 +23,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+
 <p align="center">
   <h3> I'm Front End developer from India currently working at Accenture as a React.js Developer</h3>
 </p>
@@ -38,7 +38,7 @@
 
 - All About living life at its best.
 
-- 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/yourdevujjawal/yourdevujjawal/master/linkedin.png?raw=true" >](https://linkedin.com/in/yourdevujjawal)
+- 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/yourdevujjawal/yourdevujjawal/master/linkedin.png?raw=true" width="20" style="vertical-align:bottom">](https://linkedin.com/in/yourdevujjawal)
 
  <p align="center">
   <h4> Front End | React.js | CSS Nerd </h4>
@@ -64,7 +64,6 @@
   <img src="https://raw.githubusercontent.com/yourdevujjawal/yourdevujjawal/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/yourdevujjawal/yourdevujjawal/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/yourdevujjawal/yourdevujjawal/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/yourdevujjawal/yourdevujjawal/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/yourdevujjawal/yourdevujjawal/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
