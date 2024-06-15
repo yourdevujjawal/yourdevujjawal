@@ -26,10 +26,6 @@
   <h3> I'm Front End developer from India currently working at Accenture as a React.js Developer</h3>
 </p>
 
-- 🥀 Learning Typescript, Node.js, Express and MongoDB
-
-- <i>with Javascript, React and 69 others.</i>
-
 - 😋 Into Music and a lot of delicious food.
 
 - I do Frontend 💖
