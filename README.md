@@ -3,7 +3,7 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.https://www.linkedin.com/in/yourdevujjawal/"><img height="30" src="https://raw.githubusercontent.com/yourdevujjawal/yourdevujjawal/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/yourdevujjawal/"><img height="30" src="https://raw.githubusercontent.com/yourdevujjawal/yourdevujjawal/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://blog.yourdevujjawal.com/"><img height="30" src="https://raw.githubusercontent.com/yourdevujjawal/yourdevujjawal/master/hashnode.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
